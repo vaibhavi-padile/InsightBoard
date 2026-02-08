@@ -261,8 +261,8 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/vaibhavi-padile)
-- LinkedIn: [Your Profile](https://linkedin.com/in/vaibhavi-padile)
+- GitHub: [@vaibhavi-padile](https://github.com/vaibhavi-padile)
+- LinkedIn: [vaibhavi-padile](https://linkedin.com/in/vaibhavi-padile)
 
 ## 🙏 Acknowledgments
 
@@ -274,3 +274,4 @@ This project is licensed under the MIT License.
 
 
 **⭐ If you find this project useful, please give it a star!**
+
