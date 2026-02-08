@@ -261,8 +261,8 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/vaibhavi-padile)
+- LinkedIn: [Your Profile](https://linkedin.com/in/vaibhavi-padile)
 
 ## 🙏 Acknowledgments
 
@@ -271,5 +271,6 @@ This project is licensed under the MIT License.
 - Inspired by modern MLOps practices
 
 ---
+
 
 **⭐ If you find this project useful, please give it a star!**
